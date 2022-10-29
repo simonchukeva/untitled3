@@ -1,0 +1,9 @@
+impport random
+class Human:
+   def __init__(sef, name ="PON", job = none, home = None, car = None):
+      self.nme = name
+      self.job = job
+      self.home = home
+      self.car = car
+      self.gladness = 50
+      self.stiety = 50
